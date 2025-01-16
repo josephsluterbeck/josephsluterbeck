@@ -1,2 +1,1 @@
-Joseph Sluterbeck
-Computer Science
+Joseph Sluterbeck - Computer Science
