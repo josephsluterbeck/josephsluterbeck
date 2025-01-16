@@ -1,1 +1,2 @@
-Hello!
+Joseph Sluterbeck
+Computer Science
