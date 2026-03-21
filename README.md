@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-258A35?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-EB4D1B?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E6BD1C?style=for-the-badge&logo=java&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-C57A13?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-EE609F?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-091388?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -21,8 +22,8 @@
 - Full-stack web app for managing recipes, shopping carts, and pantry items
 - User authentication with personalized accounts and persistent data
 - Tech Stack: JavaScript, HTML/CSS, Flask, SQLAlchemy
-:link: [View repo](https://github.com/Cacanuck/CEG4110_Project)
+- [GrumpyChef Repository](https://github.com/Cacanuck/CEG4110_Project)
 ---
-## Contact
+## :telephone_receiver: Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-129F75?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-sluterbeck)
 [![Gmail](https://img.shields.io/badge/Gmail-129F75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephsluterbeck@gmail.com)
