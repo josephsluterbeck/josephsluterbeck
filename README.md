@@ -1,7 +1,6 @@
 # :wave: Joseph Sluterbeck - CompSci Major
 ---
 ## :star: About Me
----
 - Full-stack developer
 - Building cool stuff
 - Fall 2026 graduate
@@ -16,7 +15,7 @@
 ![Git](https://img.shields.io/badge/Git-C57A13?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-EE609F?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-091388?style=for-the-badge&logo=sqlalchemy&logoColor=white)
---- 
+***
 ## :rocket: Projects
 ### GrumpyChef
 - Full-stack web app for managing recipes, shopping carts, and pantry items
