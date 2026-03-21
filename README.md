@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Joseph Sluterbeck - Computer Science
 
 # Personal Projects:
@@ -8,3 +9,7 @@
 > The second project I will attempt to work on this semester will be a customized personal portfolio website. Ideally, it would contain all of my relevant links, my resume, information about me, and jobs I am seeking. I would customize it to be aesthetically pleasing.
 
 💻💻💻
+=======
+Joseph Sluterbeck
+Computer Science
+>>>>>>> Stashed changes
