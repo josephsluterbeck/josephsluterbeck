@@ -23,6 +23,6 @@
 - Tech Stack: Python, JavaScript, HTML/CSS, Flask, SQLAlchemy
 ---
 ## :telephone_receiver: Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-129F75?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-sluterbeck)
 [![Gmail](https://img.shields.io/badge/Gmail-129F75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephsluterbeck@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-129F75?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-sluterbeck)
 [![Resume](https://img.shields.io/badge/Resume-129F75?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Joseph_Sluterbeck_Resume.pdf)
