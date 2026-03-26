@@ -17,12 +17,12 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-091388?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ***
 ## :rocket: Projects
-### GrumpyChef
+### 🍳 [GrumpyChef](https://github.com/Cacanuck/CEG4110_Project)
 - Full-stack web app for managing recipes, shopping carts, and pantry items
 - User authentication with personalized accounts and persistent data
-- Tech Stack: JavaScript, HTML/CSS, Flask, SQLAlchemy
-- [GrumpyChef Repository](https://github.com/Cacanuck/CEG4110_Project)
+- Tech Stack: Python, JavaScript, HTML/CSS, Flask, SQLAlchemy
 ---
 ## :telephone_receiver: Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-129F75?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-sluterbeck)
 [![Gmail](https://img.shields.io/badge/Gmail-129F75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephsluterbeck@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-129F75?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Joseph_Sluterbeck_Resume.pdf)
