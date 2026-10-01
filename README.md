@@ -26,6 +26,10 @@
 - Developing a dual ESP32 ESP-NOW bridge to transfer encrypted image data without Wi-Fi, Bluetooth, or cellular networks
 - Building a OpenCV pipeline to detect markers and optimize image payloads before transmission
 - Tech Stack: Python, FastAPI, ESP32, Raspberry Pi, OpenCV
+### 📓 [Daybook](https://github.com/josephsluterbeck/daybook)
+- Personal command-centre for budgeting, tasks, journaling, and planning
+- Local-first: opt-in AES-256-GCM app lock and independently encrypted backups
+- Tech Stack: TypeScript, React, Web Crypto API, Service Workers, Cloudflare
 ### 🍳 [GrumpyChef](https://github.com/Cacanuck/CEG4110_Project)
 - Full-stack web app for managing recipes, shopping carts, and pantry items
 - User authentication with personalized accounts and persistent data
