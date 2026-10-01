@@ -1,9 +1,9 @@
-# :wave: Joseph Sluterbeck - CompSci Major
+# :wave: Joseph Sluterbeck - Computer Science, B.S.
 ---
 ## :star: About Me
-- Full-stack developer
-- Building cool stuff
-- Fall 2026 graduate
+- Wright State University - December 2026 graduate
+- Experience with full-stack development, IoT, and software design
+- I enjoy turning ideas into solutions
 ---
 ## :dart: Languages, Frameworks, Tools, Databases
 ![Python](https://img.shields.io/badge/Python-13B5E3?style=for-the-badge&logo=python&logoColor=white)
@@ -21,11 +21,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ***
 ## :rocket: Projects
-### 📡 IoT Data Transmission System (WIP)
+### 📡 IoT Data Transmission System
 - Senior capstone project focused on secure wireless data transmission
 - Developing a dual ESP32 ESP-NOW bridge to transfer encrypted image data without Wi-Fi, Bluetooth, or cellular networks
-- Building a YOLOv8/OpenCV computer vision pipeline to detect markers and optimize image payloads before transmission
-- Tech Stack: Python, FastAPI, ESP32, Raspberry Pi, YOLOv8, OpenCV
+- Building a OpenCV pipeline to detect markers and optimize image payloads before transmission
+- Tech Stack: Python, FastAPI, ESP32, Raspberry Pi, OpenCV
 ### 🍳 [GrumpyChef](https://github.com/Cacanuck/CEG4110_Project)
 - Full-stack web app for managing recipes, shopping carts, and pantry items
 - User authentication with personalized accounts and persistent data
